@@ -1,0 +1,993 @@
+{
+  "Iola": [
+    "Allen County"
+  ],
+  "Moran": [
+    "Allen County"
+  ],
+  "Humboldt": [
+    "Allen County"
+  ],
+  "Garnett": [
+    "Anderson County"
+  ],
+  "Atchison": [
+    "Atchison County"
+  ],
+  "Effingham": [
+    "Atchison County"
+  ],
+  "Kiowa": [
+    "Barber County"
+  ],
+  "Medicine Lodge": [
+    "Barber County"
+  ],
+  "Great Bend": [
+    "Barton County"
+  ],
+  "Ellinwood": [
+    "Barton County"
+  ],
+  "Hoisington": [
+    "Barton County"
+  ],
+  "Uniontown": [
+    "Bourbon County"
+  ],
+  "Fort Scott": [
+    "Bourbon County"
+  ],
+  "Augusta": [
+    "Butler County"
+  ],
+  "El Dorado": [
+    "Butler County"
+  ],
+  "Douglass": [
+    "Butler County"
+  ],
+  "Potwin": [
+    "Butler County"
+  ],
+  "Rose Hill": [
+    "Butler County"
+  ],
+  "Towanda": [
+    "Butler County"
+  ],
+  "Whitewater": [
+    "Butler County"
+  ],
+  "Sedan": [
+    "Chautauqua County"
+  ],
+  "Galena": [
+    "Cherokee County"
+  ],
+  "Weir": [
+    "Cherokee County"
+  ],
+  "Baxter Springs": [
+    "Cherokee County"
+  ],
+  "Columbus": [
+    "Cherokee County"
+  ],
+  "Riverton": [
+    "Cherokee County"
+  ],
+  "Ashland": [
+    "Clark County"
+  ],
+  "Minneola": [
+    "Clark County"
+  ],
+  "Longford": [
+    "Clay County"
+  ],
+  "Wakefield": [
+    "Clay County"
+  ],
+  "Burlington": [
+    "Coffey County"
+  ],
+  "Lebo": [
+    "Coffey County"
+  ],
+  "Coldwater": [
+    "Comanche County"
+  ],
+  "Protection": [
+    "Comanche County"
+  ],
+  "Cherokee": [
+    "Crawford County"
+  ],
+  "Pittsburg": [
+    "Crawford County"
+  ],
+  "Girard": [
+    "Crawford County"
+  ],
+  "Frontenac": [
+    "Crawford County"
+  ],
+  "Abilene": [
+    "Dickinson County"
+  ],
+  "Herington": [
+    "Dickinson County"
+  ],
+  "Solomon": [
+    "Dickinson County"
+  ],
+  "Elwood": [
+    "Doniphan County"
+  ],
+  "Wathena": [
+    "Doniphan County"
+  ],
+  "White Cloud": [
+    "Doniphan County"
+  ],
+  "Kinsley": [
+    "Edwards County"
+  ],
+  "Belpre": [
+    "Edwards County"
+  ],
+  "Lewis": [
+    "Edwards County"
+  ],
+  "Longton": [
+    "Elk County"
+  ],
+  "Grenola": [
+    "Elk County"
+  ],
+  "Howard": [
+    "Elk County"
+  ],
+  "Moline": [
+    "Elk County"
+  ],
+  "Ellsworth": [
+    "Ellsworth County"
+  ],
+  "Holyrood": [
+    "Ellsworth County"
+  ],
+  "Wilson": [
+    "Ellsworth County"
+  ],
+  "Garden City": [
+    "Finney County"
+  ],
+  "Paola": [
+    "Franklin County",
+    "Miami County"
+  ],
+  "Ottawa": [
+    "Franklin County"
+  ],
+  "Richmond": [
+    "Franklin County"
+  ],
+  "Pomona": [
+    "Franklin County"
+  ],
+  "Wellsville": [
+    "Franklin County"
+  ],
+  "Williamsburg": [
+    "Franklin County"
+  ],
+  "Junction City": [
+    "Geary County"
+  ],
+  "Hill City": [
+    "Graham County"
+  ],
+  "Morland": [
+    "Graham County"
+  ],
+  "Nicodemus": [
+    "Graham County"
+  ],
+  "Saint Peter": [
+    "Graham County"
+  ],
+  "Cimarron": [
+    "Gray County"
+  ],
+  "Tribune": [
+    "Greeley County"
+  ],
+  "Syracuse": [
+    "Hamilton County"
+  ],
+  "Attica": [
+    "Harper County"
+  ],
+  "Anthony": [
+    "Harper County"
+  ],
+  "Sublette": [
+    "Haskell County"
+  ],
+  "Satanta": [
+    "Haskell County"
+  ],
+  "Jetmore": [
+    "Hodgeman County"
+  ],
+  "Meriden": [
+    "Jefferson County"
+  ],
+  "Oskaloosa": [
+    "Jefferson County"
+  ],
+  "Ozawkie": [
+    "Jefferson County"
+  ],
+  "Nortonville": [
+    "Jefferson County"
+  ],
+  "Perry": [
+    "Jefferson County"
+  ],
+  "Valley Falls": [
+    "Jefferson County"
+  ],
+  "Overland Park": [
+    "Johnson County"
+  ],
+  "Olathe": [
+    "Johnson County"
+  ],
+  "Mission": [
+    "Johnson County"
+  ],
+  "Gardner": [
+    "Johnson County"
+  ],
+  "Edgerton": [
+    "Johnson County"
+  ],
+  "Shawnee": [
+    "Johnson County"
+  ],
+  "Lenexa": [
+    "Johnson County"
+  ],
+  "Leawood": [
+    "Johnson County"
+  ],
+  "Spring Hill": [
+    "Johnson County"
+  ],
+  "Stilwell": [
+    "Johnson County"
+  ],
+  "Lakin": [
+    "Kearny County"
+  ],
+  "Parsons": [
+    "Labette County"
+  ],
+  "Chetopa": [
+    "Labette County"
+  ],
+  "Altamont": [
+    "Labette County"
+  ],
+  "Edna": [
+    "Labette County"
+  ],
+  "Mound Valley": [
+    "Labette County"
+  ],
+  "Oswego": [
+    "Labette County"
+  ],
+  "Basehor": [
+    "Leavenworth County"
+  ],
+  "Leavenworth": [
+    "Leavenworth County"
+  ],
+  "Tonganoxie": [
+    "Leavenworth County"
+  ],
+  "Lincoln": [
+    "Lincoln County"
+  ],
+  "Sylvan Grove": [
+    "Lincoln County"
+  ],
+  "Oakley": [
+    "Logan County"
+  ],
+  "Canton": [
+    "McPherson County"
+  ],
+  "Lindsborg": [
+    "McPherson County"
+  ],
+  "Inman": [
+    "McPherson County"
+  ],
+  "McPherson": [
+    "McPherson County"
+  ],
+  "Burns": [
+    "Marion County"
+  ],
+  "Lost Springs": [
+    "Marion County"
+  ],
+  "Ramona": [
+    "Marion County"
+  ],
+  "Florence": [
+    "Marion County"
+  ],
+  "Lincolnville": [
+    "Marion County"
+  ],
+  "Hillsboro": [
+    "Marion County"
+  ],
+  "Marion": [
+    "Marion County"
+  ],
+  "Peabody": [
+    "Marion County"
+  ],
+  "Tampa": [
+    "Marion County"
+  ],
+  "Fowler": [
+    "Meade County"
+  ],
+  "Meade": [
+    "Meade County"
+  ],
+  "Plains": [
+    "Meade County"
+  ],
+  "Louisburg": [
+    "Miami County"
+  ],
+  "Osawatomie": [
+    "Miami County"
+  ],
+  "Elk City": [
+    "Montgomery County"
+  ],
+  "Caney": [
+    "Montgomery County"
+  ],
+  "Independence": [
+    "Montgomery County"
+  ],
+  "Dearing": [
+    "Montgomery County"
+  ],
+  "Liberty": [
+    "Montgomery County"
+  ],
+  "Cherryvale": [
+    "Montgomery County"
+  ],
+  "Council Grove": [
+    "Morris County"
+  ],
+  "Wilsey": [
+    "Morris County"
+  ],
+  "Centralia": [
+    "Nemaha County"
+  ],
+  "Seneca": [
+    "Nemaha County"
+  ],
+  "Sabetha": [
+    "Nemaha County"
+  ],
+  "Wetmore": [
+    "Nemaha County"
+  ],
+  "Erie": [
+    "Neosho County"
+  ],
+  "Chanute": [
+    "Neosho County"
+  ],
+  "Thayer": [
+    "Neosho County"
+  ],
+  "Clayton": [
+    "Norton County"
+  ],
+  "Norton": [
+    "Norton County"
+  ],
+  "Lenora": [
+    "Norton County"
+  ],
+  "Osborne": [
+    "Osborne County"
+  ],
+  "Alton": [
+    "Osborne County"
+  ],
+  "Downs": [
+    "Osborne County"
+  ],
+  "Portis": [
+    "Osborne County"
+  ],
+  "Natoma": [
+    "Osborne County"
+  ],
+  "Ada": [
+    "Ottawa County"
+  ],
+  "Delphos": [
+    "Ottawa County"
+  ],
+  "Minneapolis": [
+    "Ottawa County"
+  ],
+  "Tescott": [
+    "Ottawa County"
+  ],
+  "Bennington": [
+    "Ottawa County"
+  ],
+  "Larned": [
+    "Pawnee County"
+  ],
+  "Rozel": [
+    "Pawnee County"
+  ],
+  "Phillipsburg": [
+    "Phillips County"
+  ],
+  "Long Island": [
+    "Phillips County"
+  ],
+  "Wamego": [
+    "Pottawatomie County"
+  ],
+  "Saint Marys": [
+    "Pottawatomie County"
+  ],
+  "Saint George": [
+    "Pottawatomie County"
+  ],
+  "Onaga": [
+    "Pottawatomie County"
+  ],
+  "Westmoreland": [
+    "Pottawatomie County"
+  ],
+  "Pratt": [
+    "Pratt County"
+  ],
+  "Preston": [
+    "Pratt County"
+  ],
+  "Atwood": [
+    "Rawlins County"
+  ],
+  "Herndon": [
+    "Rawlins County"
+  ],
+  "Buhler": [
+    "Reno County"
+  ],
+  "Hutchinson": [
+    "Reno County"
+  ],
+  "Haven": [
+    "Reno County"
+  ],
+  "South Hutchinson": [
+    "Reno County"
+  ],
+  "Pretty Prairie": [
+    "Reno County"
+  ],
+  "Arlington": [
+    "Reno County"
+  ],
+  "Sylvia": [
+    "Reno County"
+  ],
+  "Narka": [
+    "Republic County"
+  ],
+  "Belleville": [
+    "Republic County"
+  ],
+  "Republic": [
+    "Republic County"
+  ],
+  "Scandia": [
+    "Republic County"
+  ],
+  "Munden": [
+    "Republic County"
+  ],
+  "Lyons": [
+    "Rice County"
+  ],
+  "Sterling": [
+    "Rice County"
+  ],
+  "Manhattan": [
+    "Riley County"
+  ],
+  "Leonardville": [
+    "Riley County"
+  ],
+  "Ogden": [
+    "Riley County"
+  ],
+  "Randolph": [
+    "Riley County"
+  ],
+  "Plainville": [
+    "Rooks County"
+  ],
+  "Palco": [
+    "Rooks County"
+  ],
+  "Stockton": [
+    "Rooks County"
+  ],
+  "Otis": [
+    "Rush County"
+  ],
+  "La Crosse": [
+    "Rush County"
+  ],
+  "Lucas": [
+    "Russell County"
+  ],
+  "Luray": [
+    "Russell County"
+  ],
+  "Russell": [
+    "Russell County"
+  ],
+  "Assaria": [
+    "Saline County"
+  ],
+  "Salina": [
+    "Saline County"
+  ],
+  "Scott City": [
+    "Scott County"
+  ],
+  "Mount Hope": [
+    "Sedgwick County"
+  ],
+  "Cheney": [
+    "Sedgwick County"
+  ],
+  "Wichita": [
+    "Sedgwick County"
+  ],
+  "Bentley": [
+    "Sedgwick County"
+  ],
+  "Clearwater": [
+    "Sedgwick County"
+  ],
+  "Colwich": [
+    "Sedgwick County"
+  ],
+  "Haysville": [
+    "Sedgwick County"
+  ],
+  "Park City": [
+    "Sedgwick County"
+  ],
+  "Maize": [
+    "Sedgwick County"
+  ],
+  "Mulvane": [
+    "Sedgwick County"
+  ],
+  "Goddard": [
+    "Sedgwick County"
+  ],
+  "Liberal": [
+    "Seward County"
+  ],
+  "Topeka": [
+    "Shawnee County"
+  ],
+  "Auburn": [
+    "Shawnee County"
+  ],
+  "Rossville": [
+    "Shawnee County"
+  ],
+  "Tecumseh": [
+    "Shawnee County"
+  ],
+  "Hoxie": [
+    "Sheridan County"
+  ],
+  "Seldon": [
+    "Sheridan County"
+  ],
+  "Horton": [
+    "Brown County"
+  ],
+  "Hiawatha": [
+    "Brown County"
+  ],
+  "Strong City": [
+    "Chase County"
+  ],
+  "Cottonwood Falls": [
+    "Chase County"
+  ],
+  "Bird City": [
+    "Cheyenne County"
+  ],
+  "St. Francis": [
+    "Cheyenne County"
+  ],
+  "Miltonvale": [
+    "Cloud County"
+  ],
+  "Concordia": [
+    "Cloud County"
+  ],
+  "Clyde": [
+    "Cloud County"
+  ],
+  "Glasco": [
+    "Cloud County"
+  ],
+  "Jamestown": [
+    "Cloud County"
+  ],
+  "Arkansas City": [
+    "Cowley County"
+  ],
+  "Dexter": [
+    "Cowley County"
+  ],
+  "Winfield": [
+    "Cowley County"
+  ],
+  "Burden": [
+    "Cowley County"
+  ],
+  "Udall": [
+    "Cowley County"
+  ],
+  "Jennings": [
+    "Decatur County"
+  ],
+  "Norcatur": [
+    "Decatur County"
+  ],
+  "Oberlin": [
+    "Decatur County"
+  ],
+  "Baldwin City": [
+    "Douglas County"
+  ],
+  "Lawrence": [
+    "Douglas County"
+  ],
+  "Eudora": [
+    "Douglas County"
+  ],
+  "Lecompton": [
+    "Douglas County"
+  ],
+  "Hays": [
+    "Ellis County"
+  ],
+  "Ellis": [
+    "Ellis County"
+  ],
+  "Victoria": [
+    "Ellis County"
+  ],
+  "Bucklin": [
+    "Ford County"
+  ],
+  "Dodge City": [
+    "Ford County"
+  ],
+  "Bloom": [
+    "Ford County"
+  ],
+  "Gove": [
+    "Gove County"
+  ],
+  "Quinter": [
+    "Gove County"
+  ],
+  "Grainfield": [
+    "Gove County"
+  ],
+  "Grinnell": [
+    "Gove County"
+  ],
+  "Ulysses": [
+    "Grant County"
+  ],
+  "Madison": [
+    "Greenwood County"
+  ],
+  "Eureka": [
+    "Greenwood County"
+  ],
+  "Severy": [
+    "Greenwood County"
+  ],
+  "Newton": [
+    "Harvey County"
+  ],
+  "Burrton": [
+    "Harvey County"
+  ],
+  "Sedgwick": [
+    "Harvey County"
+  ],
+  "Hesston": [
+    "Harvey County"
+  ],
+  "North Newton": [
+    "Harvey County"
+  ],
+  "Halstead": [
+    "Harvey County"
+  ],
+  "Mayetta": [
+    "Jackson County"
+  ],
+  "Holton": [
+    "Jackson County"
+  ],
+  "Hoyt": [
+    "Jackson County"
+  ],
+  "Netawaka": [
+    "Jackson County"
+  ],
+  "Burr Oak": [
+    "Jewell County"
+  ],
+  "Mankato": [
+    "Jewell County"
+  ],
+  "Esbon": [
+    "Jewell County"
+  ],
+  "Formosa": [
+    "Jewell County"
+  ],
+  "Jewell": [
+    "Jewell County"
+  ],
+  "Cunningham": [
+    "Kingman County"
+  ],
+  "Kingman": [
+    "Kingman County"
+  ],
+  "Norwich": [
+    "Kingman County"
+  ],
+  "Dighton": [
+    "Lane County"
+  ],
+  "Mound City": [
+    "Linn County"
+  ],
+  "Pleasanton": [
+    "Linn County"
+  ],
+  "Parker": [
+    "Linn County"
+  ],
+  "Prescott": [
+    "Linn County"
+  ],
+  "Allen": [
+    "Lyon County"
+  ],
+  "Americus": [
+    "Lyon County"
+  ],
+  "Emporia": [
+    "Lyon County"
+  ],
+  "Hartford": [
+    "Lyon County"
+  ],
+  "Axtell": [
+    "Marshall County"
+  ],
+  "Beattie": [
+    "Marshall County"
+  ],
+  "Marysville": [
+    "Marshall County"
+  ],
+  "Waterville": [
+    "Marshall County"
+  ],
+  "Frankfort": [
+    "Marshall County"
+  ],
+  "Blue Rapids": [
+    "Marshall County"
+  ],
+  "Beloit": [
+    "Mitchell County"
+  ],
+  "Glen Elder": [
+    "Mitchell County"
+  ],
+  "Hunter": [
+    "Mitchell County"
+  ],
+  "Cawker City": [
+    "Mitchell County"
+  ],
+  "Elkhart": [
+    "Morton County"
+  ],
+  "Ness City": [
+    "Ness County"
+  ],
+  "Ransom": [
+    "Ness County"
+  ],
+  "Utica": [
+    "Ness County"
+  ],
+  "Osage City": [
+    "Osage County"
+  ],
+  "Lyndon": [
+    "Osage County"
+  ],
+  "Carbondale": [
+    "Osage County"
+  ],
+  "Melvern": [
+    "Osage County"
+  ],
+  "Burlingame": [
+    "Osage County"
+  ],
+  "Macksville": [
+    "Stafford County"
+  ],
+  "Seward": [
+    "Stafford County"
+  ],
+  "St. John": [
+    "Stafford County"
+  ],
+  "Argonia": [
+    "Sumner County"
+  ],
+  "Belle Plaine": [
+    "Sumner County"
+  ],
+  "Caldwell": [
+    "Sumner County"
+  ],
+  "Geuda Springs": [
+    "Sumner County"
+  ],
+  "Conway Springs": [
+    "Sumner County"
+  ],
+  "South Haven": [
+    "Sumner County"
+  ],
+  "Wellington": [
+    "Sumner County"
+  ],
+  "Alta Vista": [
+    "Wabaunsee County"
+  ],
+  "Alma": [
+    "Wabaunsee County"
+  ],
+  "Eskridge": [
+    "Wabaunsee County"
+  ],
+  "Harveyville": [
+    "Wabaunsee County"
+  ],
+  "Maple Hill": [
+    "Wabaunsee County"
+  ],
+  "Leoti": [
+    "Wichita County"
+  ],
+  "Toronto": [
+    "Woodson County"
+  ],
+  "Neosho Falls": [
+    "Woodson County"
+  ],
+  "Goodland": [
+    "Sherman County"
+  ],
+  "Lebanon": [
+    "Smith County"
+  ],
+  "Gaylord": [
+    "Smith County"
+  ],
+  "Kensington": [
+    "Smith County"
+  ],
+  "Johnson City": [
+    "Stanton County"
+  ],
+  "Hugoton": [
+    "Stevens County"
+  ],
+  "Colby": [
+    "Thomas County"
+  ],
+  "WaKeeney": [
+    "Trego County"
+  ],
+  "Clifton": [
+    "Washington County"
+  ],
+  "Washington": [
+    "Washington County"
+  ],
+  "Hollenberg": [
+    "Washington County"
+  ],
+  "Hanover": [
+    "Washington County"
+  ],
+  "Mahaska": [
+    "Washington County"
+  ],
+  "Morrowville": [
+    "Washington County"
+  ],
+  "Altoona": [
+    "Wilson County"
+  ],
+  "Neodesha": [
+    "Wilson County"
+  ],
+  "Fredonia": [
+    "Wilson County"
+  ],
+  "Kansas City": [
+    "Wyandotte County"
+  ],
+  "Bonner Springs": [
+    "Wyandotte County"
+  ],
+  "Edwardsville": [
+    "Wyandotte County"
+  ]
+}
