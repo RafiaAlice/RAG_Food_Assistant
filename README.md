@@ -76,15 +76,25 @@ The pantry dataset was created using an automated web scraping pipeline to colle
    - Source link  
 4. Cleaned and structured the data into JSON format  
 
-### Dataset Output Format
 
-```json
-{
-  "pantry_name": "...",
-  "address": "...",
-  "phone": "...",
-  "hours": "...",
-  "other_info": "...",
-  "link": "..."
-}
+## Running the Application
 
+Install the required dependencies and execute the main Python script.  
+The Gradio interface will launch in your browser.
+
+---
+
+## Example Queries
+
+- "Pantries in Wichita open Saturday"
+- "Food pantry without ID requirement"
+- "Mobile pantry near me"
+- "Help me plan for Monday and Tuesday"
+
+---
+
+## Notes
+
+- Designed specifically for Kansas pantry data  
+- Combines structured database filtering with semantic retrieval  
+- Built as an applied AI retrieval and conversational system project  
